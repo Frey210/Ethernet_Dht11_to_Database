@@ -9,3 +9,11 @@ there are 12 sites with each using
 - 1 Ethernet shield
 
 connection using rj45 connected via a radiolink network via a static ip dhcp router
+
+Arduino Wiring diagram
+![AirNav IoT Arduino](https://user-images.githubusercontent.com/86996832/152488866-83abf5a6-8922-486f-b5e1-2cb7a1beb031.jpg)
+
+
+
+Radiolink Connection
+![AirNav IoT](https://user-images.githubusercontent.com/86996832/152488880-09f812a8-42b2-4415-85a5-fa43267048a8.jpg)
